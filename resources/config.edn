@@ -1,0 +1,9 @@
+{
+ :idealista {
+             :user ""
+             :pwd "" }
+ :telegram {
+            :token ""
+            :chat-id ""
+            }
+ }
